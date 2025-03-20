@@ -22,7 +22,7 @@ repository               : "rick10119/rick10119.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "rklyu.jpg"
+  avatar           : "paragraph-indent.png"
   name             : "Ruike Lyu"
   pronouns         : "he/him"  
   bio              : "I am a Ph.D. candidate at Tsinghua University (currently visiting at Princeton University), with research interests primarily focused on electricity markets, virtual power plants, and demand-side flexibility."
