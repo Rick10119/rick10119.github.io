@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ruike Lyu / Research"
+title                    : "Research Page"
 title_separator          : "-"
 name                     : &name "Ruike Lyu"
 description              : &description "Ph.D. candidate at Tsinghua Univ. (EILab), visiting at Princeton Univ. (ZERO Lab)"
@@ -22,10 +22,10 @@ repository               : "rick10119/rick10119.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "rklyu.jpg"
   name             : "Ruike Lyu"
   pronouns         : "he/him"  
-  bio              : "I am a Ph.D. candidate at Tsinghua University, with research interests primarily focused on electricity markets, virtual power plants, and demand-side flexibility. I plan to gradually open source all of my research paper code, which can be found on my GitHub repository: [https://github.com/Rick10119]."
+  bio              : "I am a Ph.D. candidate at Tsinghua University (currently visiting at Princeton University), with research interests primarily focused on electricity markets, virtual power plants, and demand-side flexibility."
   location         : "Princeton, NJ"
   # employer         : "Tsinghua Univ."
   # uri              : # URL
