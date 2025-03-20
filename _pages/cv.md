@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Student in Electrical Engineering, Tsinghua University, China, Sept. 2021 – Present
+  * Department of Electrical Engineering
+  * Supervisor: Prof. Chongqing Kang, IEEE Fellow, IET Fellow
+* Visiting Scholar, Princeton University, Feb. 2025 – Present
+  * Advisor: Prof. Jesse Jenkins
+* B.E. in Electrical Engineering, Tsinghua University, China, Sept. 2017 – Jun. 2021
+  * Department of Electrical Engineering
+* Bachelor of Business Administration (Second Degree), Tsinghua University, China, Sept. 2018 – Jun. 2021
+  * School of Economics and Management
 
-Work experience
+
+Teaching experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant
+  * Tsinghua University (2023/2024 Academic Year)
+  * Course: Energy Internet Operation Scheduling and Planning (32 hours)
+  * Designed course projects based on my latest research:
+    * Project 1: Virtual Power Plant Market Bidding
+    * Project 2: Electricity User Big Data Analysis
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -53,12 +44,14 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* IEEE PES Ph.D. Dissertation Challenge-Best Presentation (2025)
+* Outstanding Recruitment Volunteer Award (2024)
+* Outstanding Undergraduate Student Mentor (2024)
+* National Scholarship for Graduate Students (2023)
+* First-Class Comprehensive Excellence Scholarship (2022)
+* Future Scholar Scholarship (2021)
+* Outstanding Student Leader Award (2020)
+

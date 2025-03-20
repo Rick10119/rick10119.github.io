@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him"  
   bio              : "I am a Ph.D. candidate at Tsinghua University (currently visiting at Princeton University), with research interests primarily focused on electricity markets, virtual power plants, and demand-side flexibility."
   location         : "Princeton, NJ"
-  employer         : "Princeton Univ."
+  employer         : "Princeton University"
   # uri              : # URL
   email            : "rl8728@princeton.edu" 
 
@@ -40,7 +40,7 @@ author:
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Ruike_Lyu"
   # scopus           : # URL
-  linkedin         : "https://www.linkedin.com/in/ruike-lyu-03b323334/"
+  # linkedin         : 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/ruike-lyu-03b323334/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
