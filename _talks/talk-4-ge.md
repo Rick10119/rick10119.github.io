@@ -8,6 +8,8 @@ date: 2025-01-23
 location: "San Diego, USA"
 ---
 
+![Competition Photo](talk4.jpg) <!-- Add your photo here -->
+
 ## Competition Information
 
 The IEEE Power & Energy Society (PES) held its second Ph.D. Dissertation Challenge on January 23, 2025, in San Diego, USA. This prestigious **biennial** global competition, held every two years, invites doctoral students from around the world to present their dissertation research.
@@ -36,7 +38,6 @@ My dissertation addresses the "duck curve" challenge facing power systems worldw
 
 ## Resources
 
-![Competition Photo](talk4.jpg) <!-- Add your photo here -->
 
 ### Competition Website
 [IEEE PES Grid Edge 2025 PhD Dissertation Challenge](https://pes-gridedge.org/ge-2025/attendee/attendee-technical-program/phd-dissertation-challenge/)

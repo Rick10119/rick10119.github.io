@@ -8,6 +8,8 @@ date: 2024-07-24
 location: "Seattle, Washington, USA"
 ---
 
+![Conference Photo](talk3.jpg) <!-- Add your photo here -->
+
 ## Conference Information
 
 The 2024 IEEE Power & Energy Society General Meeting was held 21–25 July 2024 in Seattle, Washington. 
@@ -33,7 +35,6 @@ This research helps to better leverage the flexibility of DERs in power systems,
 
 ## Resources
 
-![Conference Photo](talk3.jpg) <!-- Add your photo here -->
 
 ### Conference Website
 [2024 IEEE PES General Meeting](https://pes-gm.org/seattle-2024/)

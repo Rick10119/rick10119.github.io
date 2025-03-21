@@ -8,6 +8,9 @@ date: 2023-10-25
 location: "Grenoble, France"
 ---
 
+![Conference Photo](talk2.jpg) <!-- Add your photo here -->
+
+
 ## Conference Information
 
 The 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe) conference was held in Grenoble, France, focusing on "Powering solutions for decarbonized and resilient future smartgrids."
@@ -30,7 +33,6 @@ Industrial production modeling provides operational constraints for industrial u
 
 ## Resources
 
-![Conference Photo](talk2.jpg) <!-- Add your photo here -->
 
 ### Conference Website
 [2023 IEEE PES ISGT EUROPE](https://attend.ieee.org/isgt-europe-2023/)
