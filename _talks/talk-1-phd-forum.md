@@ -25,7 +25,7 @@ I presented my research on "Co-Optimizing Bidding and Control Methods for Auxili
 
 ## Resources
 
-![Forum Photo](talk1.jpg) <!-- Add your photo here -->
+![Forum Photo](talk1.png) <!-- Add your photo here -->
 
 ### Research Code and Data
 The code and data for this research are available in this GitHub repository:
