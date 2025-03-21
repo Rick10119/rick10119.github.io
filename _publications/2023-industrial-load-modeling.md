@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-01-01-undergrad-thesis
 excerpt: 'A theoretical framework for electric vehicle charging right trading - an initial attempt to solve queuing problems at highway charging stations'
-date: 2022-07-01
+date: 2021
 venue: 'IEEE Transactions on Smart Grid'
 paperurl: 'https://ieeexplore.ieee.org/document/9733958'
 ---
