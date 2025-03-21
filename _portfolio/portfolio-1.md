@@ -17,4 +17,4 @@ The implementation was a collaboration between the manufacturing plant and State
 
 The implemented project is generating approximately $4 million in annual savings. This substantial economic benefit demonstrates the significant value that can be created through intelligent energy management of industrial loads and distributed energy resources.
 
-![Project Implementation (discussing with on-site engineers)](port1.jpg)
+![Project Implementation (discussing with on-site engineers)](../images/port1.jpg)
