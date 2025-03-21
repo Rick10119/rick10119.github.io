@@ -2,7 +2,7 @@
 title: "Co-Optimizing Bidding and Control for Auxiliary Service Market Participation"
 collection: talks
 type: "Academic Forum"
-permalink: /talks/talk-1-phd-forum
+permalink: /talks/talk-2-phd-forum
 venue: "Tsinghua University-IET Electrical Engineering Academic Forum"
 date: 2023-05-27
 location: "Dayan Building Hotel, Beijing, China"
@@ -25,7 +25,7 @@ I presented my research on "Co-Optimizing Bidding and Control Methods for Auxili
 
 ## Resources
 
-![Forum Photo](talk1.jpg) <!-- Add your photo here -->
+![Forum Photo](talk1.png) <!-- Add your photo here -->
 
 ### Research Code and Data
 The code and data for this research are available in this GitHub repository:
