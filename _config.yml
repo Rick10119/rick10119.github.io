@@ -25,7 +25,7 @@ author:
   avatar           : "rklyu.jpg"
   name             : "Ruike Lyu"
   pronouns         : "he/him"  
-  bio              : "I am a Ph.D. candidate at Tsinghua University (currently visiting at Princeton University), with research interests primarily focused on electricity markets, virtual power plants, and demand-side flexibility."
+  bio              : "I am a Ph.D. candidate at Tsinghua University (currently visiting at Princeton University), with research interests primarily focused on electricity markets, virtual power plants, and demand-side (industrial) flexibility."
   location         : "Princeton, NJ"
   employer         : "Princeton University"
   # uri              : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/ruike-lyu-03b323334/"
+  linkedin         : "ruike-lyu-03b323334"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

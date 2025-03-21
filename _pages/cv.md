@@ -12,9 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D Student in Electrical Engineering, Tsinghua University, China, Sept. 2021 – Present
-  * Department of Electrical Engineering
-  * Supervisor: Prof. Chongqing Kang, IEEE Fellow, IET Fellow
-* Visiting Scholar, Princeton University, Feb. 2025 – Present
+  * Advisor: Prof. Chongqing Kang, Prof. Hongye Guo
+* Visiting Scholar, MAE, Princeton University, Feb. 2025 – Present
   * Advisor: Prof. Jesse Jenkins
 * B.E. in Electrical Engineering, Tsinghua University, China, Sept. 2017 – Jun. 2021
   * Department of Electrical Engineering
@@ -47,7 +46,7 @@ Talks
 
 Honors and Awards
 ======
-* IEEE PES Ph.D. Dissertation Challenge-Best Presentation (2025)
+* Best Presentation Award, IEEE PES Ph.D. Dissertation Challenge (2025)
 * Outstanding Recruitment Volunteer Award (2024)
 * Outstanding Undergraduate Student Mentor (2024)
 * National Scholarship for Graduate Students (2023)
