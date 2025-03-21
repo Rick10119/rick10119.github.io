@@ -1,7 +1,20 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Industrial Energy Management System Implementation"
+excerpt: "Optimized operation strategy for industrial users with commercial energy storage, resulting in $4 million annual savings"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Project Overview
+
+This project involved designing an optimized operation strategy for an auto manufacturing plant in Chongqing, integrating:
+- 60MW industrial load (manufacturing facilities)
+- 60MW/240MWh energy storage system
+- 10MW solar generation capacity
+
+The implementation was a collaboration between the manufacturing plant and State Power Investment Corporation (SPIC), focused on leveraging digital technology to optimize energy usage patterns.
+
+## Results and Impact
+
+The implemented project is generating approximately $4 million in annual savings. This substantial economic benefit demonstrates the significant value that can be created through intelligent energy management of industrial loads and distributed energy resources.
+
+![Project Implementation (discussing with on-site engineers)](port1.jpg)
