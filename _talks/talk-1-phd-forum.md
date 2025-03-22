@@ -1,5 +1,5 @@
 ---
-title: "Co-Optimizing Bidding and Control for Auxiliary Service Market Participation"
+title: "Co-Optimizing Bidding and Control for Ancillary Service Market Participation"
 collection: talks
 type: "Academic Forum"
 permalink: /talks/talk-1-phd-forum
