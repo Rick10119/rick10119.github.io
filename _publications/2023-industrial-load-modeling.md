@@ -1,7 +1,7 @@
 ---
 title: "Industrial Production Process Modeling: Improving Computational Efficiency While Maintaining Accuracy"
 collection: publications
-category: research
+category: manuscripts
 permalink: /publication/2023-industrial-load-modeling
 excerpt: 'Developing linearized models of industrial production processes to improve computational efficiency while maintaining model accuracy'
 date: 2023-10-25

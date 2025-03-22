@@ -1,7 +1,7 @@
 ---
 title: "Production Scheduling Identification: Using Smart Meter Data to Infer Industrial Load Parameters"
 collection: publications
-category: research
+category: manuscripts
 permalink: /publication/2024-data-driven-parameters
 excerpt: 'A novel physics-based data-driven method to identify internal parameters of industrial loads using only smart meter data'
 date: 2024-11-25
