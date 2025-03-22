@@ -7,8 +7,8 @@ excerpt: 'Novel frameworks for economic optimization of virtual power plants wit
 date: 2023-03-12
 venue: 'IEEE Transactions on Smart Grid/Applied Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0306261924002599'
-header:
-  teaser: /images/pub4.png
+# header:
+#   teaser: /images/pub4.png
 ---
 
 ![Economic Optimization](/images/pub4.png)

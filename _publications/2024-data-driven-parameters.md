@@ -7,8 +7,8 @@ excerpt: 'A novel physics-based data-driven method to identify internal paramete
 date: 2024-11-25
 venue: 'IEEE Transactions on Smart Grid'
 paperurl: 'https://ieeexplore.ieee.org/document/10769532'
-header:
-  teaser: /images/pub2.png
+# header:
+#   teaser: /images/pub2.png
 ---
 
 ![Data-driven parameter identification](/images/pub2.png)

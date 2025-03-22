@@ -2,8 +2,8 @@
 title: "Industrial Energy Management System Implementation"
 excerpt: "Optimized operation strategy for industrial users with commercial energy storage, resulting in $4 million annual savings"
 collection: portfolio
-header:
-  teaser: /images/port1.jpg
+# header:
+#   teaser: /images/port1.jpg
 ---
 
 ![Project Implementation (discussing with on-site engineers)](/images/port1.jpg)

@@ -7,8 +7,8 @@ excerpt: 'A theoretical framework for electric vehicle charging right trading - 
 date: 2022-07-01
 venue: 'IEEE Transactions on Smart Grid'
 paperurl: 'https://ieeexplore.ieee.org/document/9733958'
-header:
-  teaser: /images/paper1.jpg
+# header:
+#   teaser: /images/paper1.jpg
 ---
 
 ![Electric Vehicle Charging Right Trading](/images/paper1.jpg)

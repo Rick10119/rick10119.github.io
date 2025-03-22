@@ -7,8 +7,8 @@ excerpt: 'Novel methods to approximate complex industrial load feasible regions 
 date: 2024-07-24
 venue: 'IEEE Power Engineering Letters/PESGM'
 paperurl: 'https://ieeexplore.ieee.org/document/10902053'
-header:
-  teaser: /images/pub3.png
+# header:
+#   teaser: /images/pub3.png
 ---
 
 ![Dimension Reduction](/images/pub3.png)
