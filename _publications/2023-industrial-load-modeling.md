@@ -7,6 +7,8 @@ excerpt: 'Developing linearized models of industrial production processes to imp
 date: 2023-10-25
 venue: 'IEEE Transactions on Smart Grid/ISGT EU 2023'
 paperurl: 'https://ieeexplore.ieee.org/document/10408608'
+header:
+  teaser: /images/pub1.png
 ---
 
 ![Industrial production process modeling](/images/pub1.png)

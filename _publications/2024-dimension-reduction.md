@@ -40,13 +40,13 @@ The results are impressive: our method can accurately approximate loads with dif
 
 Our work in this area includes:
 
-1. **Analytical Methods**: We explored analytical approaches for industrial load feasible region calculation, published in Chinese journal papers [Chinese Journal Paper](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=DLXT20250113001&uniplatform=OVERSEA&v=EqDlWzby9GWDmabXdhd7_oavSpSpwegkXEeCQuxjWoURDvTMhxORxMwk6X_sRy1-)
+1. **Analytical Methods**: We explored analytical approaches for industrial load feasible region calculation, published as a [Chinese journal papers](https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=DLXT20250113001&uniplatform=OVERSEA&v=EqDlWzby9GWDmabXdhd7_oavSpSpwegkXEeCQuxjWoURDvTMhxORxMwk6X_sRy1-)
 
-2. **Initial Data-Driven Applications**: We first applied data-driven methods to electric vehicles in a PES General Meeting conference paper [GESGM-2024](https://ieeexplore.ieee.org/document/10689111)[Github](https://github.com/Rick10119/Approximating-Feasible-Region-of-Virtual-Power-Plants-A-Data-driven-Approach)
+2. **Initial Data-Driven Applications**: We first applied data-driven methods to electric vehicles in a [PES General Meeting conference paper](https://ieeexplore.ieee.org/document/10689111). [Codes](https://github.com/Rick10119/Approximating-Feasible-Region-of-Virtual-Power-Plants-A-Data-driven-Approach)
 
-3. **Industrial Load Application**: We recently published a paper in IEEE Power & Energy Letters applying this approach to industrial loads[PELS-2025](https://ieeexplore.ieee.org/document/10902053)[Github](https://github.com/Rick10119/Data-Driven-Dimension-Reduction)
+3. **Industrial Load Application**: We recently published a paper in [IEEE Power & Energy Letters](https://ieeexplore.ieee.org/document/10902053) applying this approach to industrial loads. [Codes](https://github.com/Rick10119/Data-Driven-Dimension-Reduction)
 
-4. **Mining Industry Case Study**: For the 2025 PES General Meeting, we have submitted a paper using our method in mining applications [PESGM-2025](https://arxiv.org/abs/2503.00701)
+4. **Mining Industry Case Study**: For the 2025 PES General Meeting, we have submitted [a paper using our method in mining applications](https://arxiv.org/abs/2503.00701).
 
 ## Impact and Applications
 
