@@ -1,7 +1,9 @@
 {% include base_path %}
 
 {% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+<div class="archive__item-teaser">
+  <img src="{{ post.header.teaser | relative_url }}" alt="">
+</div>
 {% else %}
   {% assign teaser = site.teaser %}
 {% endif %}
