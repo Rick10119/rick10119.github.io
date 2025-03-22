@@ -1,11 +1,11 @@
 ---
 title: "Approximation of High-Dimensional Non-Convex Feasible Regions"
 collection: publications
-category: research
+category: manuscripts
 permalink: /publication/2024-dimension-reduction
 excerpt: 'Novel methods to approximate complex industrial load feasible regions with low-dimensional linear constraints'
 date: 2024-07-24
-venue: 'IEEE Power Engineering Letters/PESGM 2024'
+venue: 'IEEE Power Engineering Letters/PESGM'
 paperurl: 'https://ieeexplore.ieee.org/document/10902053'
 ---
 
