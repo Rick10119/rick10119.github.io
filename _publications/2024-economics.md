@@ -38,7 +38,7 @@ This co-optimization approach balances:
 - Future profits affected by bidding strategies
 - The interdependence between bidding and control decisions
 
-[TSG-2023](https://ieeexplore.ieee.org/document/10689111)[Github (code and slides)](https://github.com/Rick10119/Co-Optimizing-Bidding-and-Power-Allocation-of-an-EV-Aggregator) [Video](https://www.bilibili.com/video/BV1u3QDYFEKi)
+[TSG-2023](https://ieeexplore.ieee.org/document/10689111) [Github (code and slides)](https://github.com/Rick10119/Co-Optimizing-Bidding-and-Power-Allocation-of-an-EV-Aggregator) [Video](https://www.bilibili.com/video/BV1u3QDYFEKi)
 
 ## Real-Time Implementation Strategy
 
