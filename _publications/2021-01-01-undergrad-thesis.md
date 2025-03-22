@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Thesis Toy Model: Electric Vehicle Charging Right Trading"
 collection: publications
-category: manuscripts
+category: interesting_topics
 permalink: /publication/2021-01-01-undergrad-thesis
 excerpt: 'A theoretical framework for electric vehicle charging right trading - an initial attempt to solve queuing problems at highway charging stations'
 date: 2022-07-01
