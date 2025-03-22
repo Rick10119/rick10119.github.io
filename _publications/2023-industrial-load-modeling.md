@@ -1,41 +1,67 @@
 ---
-title: "Undergraduate Thesis Toy Model: Electric Vehicle Charging Right Trading"
+title: "Industrial Production Process Modeling: Improving Computational Efficiency While Maintaining Accuracy"
 collection: publications
-category: manuscripts
-permalink: /publication/2021-01-01-undergrad-thesis
-excerpt: 'A theoretical framework for electric vehicle charging right trading - an initial attempt to solve queuing problems at highway charging stations'
-date: 2022-09-24
-venue: 'IEEE Transactions on Smart Grid'
-paperurl: 'https://ieeexplore.ieee.org/document/9733958'
+category: research
+permalink: /publication/2023-industrial-load-modeling
+excerpt: 'Developing linearized models of industrial production processes to improve computational efficiency while maintaining model accuracy'
+date: 2023-10-25
+venue: 'IEEE Transactions on Smart Grid/ISGT EU 2023'
+paperurl: 'https://ieeexplore.ieee.org/document/10408608'
 ---
 
-![Electric Vehicle Charging Right Trading](/images/paper1.jpg)
-
-## Research Introduction
-
-This research was my undergraduate thesis project, which we later recorded in video format so I wouldn't forget it. It's a somewhat theoretical yet practical study that comes to mind every National Day holiday when I see electric vehicles queuing on highways. The project involved Java programming, queuing theory derivations, and economic principles, making it excellent thesis training even though it wasn't addressing a particularly trending topic.
+![Industrial production process modeling](/images/pub1.png)
 
 ## Research Overview
 
-With the increasing penetration of electric vehicles (EVs), uncoordinated charging and the resulting chaos, disorder, and long waiting times at charging stations will become increasingly problematic. An EV Charging Right (CR) is defined as the right to reserve a predefined charging service. By purchasing CRs, EVs can reduce their charging waiting time, while CR pricing can guide EVs toward optimized charging behaviors.
+My research in this area focuses on developing efficient mathematical models to describe energy flows and material conversions in industrial production processes. The goal is to create models that maintain accuracy while being computationally efficient enough for practical applications in energy management and grid interaction.
 
-In this study, we:
-- Defined the concept of Charging Rights
-- Proposed a Charging Right Trading Mechanism (CRM)
-- Analyzed the effectiveness of CRM in reducing waiting times and mitigating congestion
+## The Challenge
 
-In the proposed mechanism, EVs can purchase CRs in advance, which are then used to estimate waiting times and update charging prices. We utilized queue theory for waiting time estimation, considering for the first time the impact of disclosing queue states at charging stations. The simulation results verified both the accuracy of our waiting time estimation methods and the effectiveness of the proposed mechanism.
+Conventional models like State-Task Networks (STN) and Resource-Task Networks (RTN) describe industrial production processes using numerous integer or binary variables. This creates significant computational challenges:
 
-## Resources
+- A single plant with 10 devices operating over 24 hours results in 240 variables
+- At 15-minute resolution, this increases to thousands of variables
+- When these are integer variables, the problem becomes NP-hard to solve
+- Industrial-scale applications become computationally infeasible
 
-- **Published Paper**: [IEEE Transactions on Smart Grid](https://ieeexplore.ieee.org/document/9733958)
-- **Paper and Slides**: [ResearchGate](https://www.researchgate.net/publication/361433406_Electric_Vehicle_Charging_Right_Trading_Concept_Mechanism_and_Methodology)
-- **Introduction Video**: [Bilibili](https://www.bilibili.com/video/BV1yWQXYZEps)
+## Our Solution
 
-## Personal Reflection
+My contribution in this area is linearizing most parts of these models using advanced mathematical techniques that:
 
-This project represents an early attempt to apply theoretical frameworks to real-world transportation electrification problems. While it's a simplified model, it addresses fundamental issues in EV infrastructure that continue to be relevant as EV adoption increases. The experience of combining programming, mathematical modeling, and economic theory provided valuable interdisciplinary training that has influenced my later research directions.
+1. Greatly reduce model complexity
+2. Increase computational feasibility
+3. Maintain model accuracy
 
-## Citation
+The results demonstrate that our linearized models maintain high accuracy while accelerating computation by more than 20 times compared to conventional approaches.
 
-R. Lyu, Y. Gu and Q. Chen, "Electric Vehicle Charging Right Trading: Concept, Mechanism, and Methodology," in IEEE Transactions on Smart Grid, vol. 13, no. 4, pp. 3094-3105, July 2022, doi: 10.1109/TSG.2022.3157814.
+## Key Publications
+
+### Linear STN Model
+
+Our first approach focused on the State-Task Network model, creating a "Linear STN" that significantly reduces computational complexity through strategic linearization techniques. This work was published as a conference paper:
+
+[LSTN-Paper](https://ieeexplore.ieee.org/document/10408608)
+
+### Continuous RTN Model
+
+Building on our STN work, we developed a "Continuous RTN" model that applies similar principles to the more complex Resource-Task Network framework. This comprehensive approach is currently under review.
+
+## Open-Source Implementation
+
+We have established GitHub repositories containing both the conventional models and our improved versions:
+
+[Link to STN/RTN models repository](https://github.com/Rick10119/Industrial-User-Modeling-Toolkit)
+
+These repositories include implementation details, example data, and documentation to help other researchers apply our methods to their own industrial modeling problems.
+
+## Impact and Applications
+
+The dramatically improved computational efficiency of our models enables:
+
+- Real-time optimization of industrial energy consumption
+- Better integration of industrial loads in demand response programs
+- More effective participation of industrial users in electricity markets
+- Faster economic dispatch and market clearing with industrial load consideration
+
+By making these complex models more tractable, we open the door to better coordination between industrial operations and power system needs.
+
