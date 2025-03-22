@@ -23,12 +23,12 @@ author_profile: false
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single-talk.html %}
+      {% include archive-single.html type="grid" %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single-talk.html %}
+  {% include archive-single.html type="grid" %}
   {% endfor %}
 {% endif %}
 
