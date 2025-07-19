@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**📄 [Download CV (PDF)]({{ base_path }}/files/Academic_CV_Ruike_Lyu.pdf)**
+
 Education
 ======
 * Ph.D Student in Electrical Engineering, Tsinghua University, China, Sept. 2021 – Present

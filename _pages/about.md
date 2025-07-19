@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "What I'm Doing"
+title: "Ruike Lyu"
 author_profile: true
 redirect_from: 
   - /about/
