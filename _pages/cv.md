@@ -13,10 +13,10 @@ redirect_from:
 
 Education
 ======
+* Visiting Student Research Collaborator, MAE, Princeton University, Feb. 2025 – Present
+  * Advisor: Prof. Jesse Jenkins
 * Ph.D Student in Electrical Engineering, Tsinghua University, China, Sept. 2021 – Present
   * Advisor: Prof. Chongqing Kang, Prof. Hongye Guo
-* Visiting Scholar, MAE, Princeton University, Feb. 2025 – Present
-  * Advisor: Prof. Jesse Jenkins
 * B.E. in Electrical Engineering, Tsinghua University, China, Sept. 2017 – Jun. 2021
   * Department of Electrical Engineering
 * Bachelor of Business Administration (Second Degree), Tsinghua University, China, Sept. 2018 – Jun. 2021
