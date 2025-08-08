@@ -49,7 +49,7 @@ Talks
 Honors and Awards
 ======
 * Best Presentation Award, IEEE PES Ph.D. Dissertation Challenge (2025)
-* Best Presentation at multiple conferences (CEEPE2024, EECT2025, PSSGT2025)
+* Best Presentation at multiple conferences (PESGM2025, EECT2025, PSSGT2025, CEEPE2024)
 * Outstanding Undergraduate Student Mentor of Tsinghua University (2024)
 * National Scholarship for Graduate Students (2023)
 * First-Class Comprehensive Excellence Scholarship (2022)
