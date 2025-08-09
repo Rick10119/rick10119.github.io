@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+description: "Academic CV of Ruike Lyu - Ph.D. candidate at Tsinghua University and visiting researcher at Princeton University, specializing in electricity markets and virtual power plants."
 permalink: /cv/
 author_profile: true
 redirect_from:

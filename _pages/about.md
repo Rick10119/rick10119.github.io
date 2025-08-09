@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "What I'm Doing"
+description: "Ph.D. candidate at Tsinghua University researching electricity markets, virtual power plants, and industrial flexibility to solve the duck curve challenge in renewable energy systems."
 author_profile: true
 redirect_from: 
   - /about/
