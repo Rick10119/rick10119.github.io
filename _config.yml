@@ -153,9 +153,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "false" # Change to "google-analytics-4" after adding tracking_id
+  provider               : "google-analytics-4"
   google:
-    tracking_id          : # Add your GA4 measurement ID here when you get it (format: G-XXXXXXXXXX)
+    tracking_id          : "G-JMJ14HS6CJ"
 
 
 # Reading Files
