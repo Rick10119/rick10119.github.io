@@ -1,5 +1,5 @@
 ---
-title: "Approximation of High-Dimensional Non-Convex Feasible Regions"
+title: "Data-Driven Approximation of High-Dimensional Non-Convex Feasible Regions"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-dimension-reduction
