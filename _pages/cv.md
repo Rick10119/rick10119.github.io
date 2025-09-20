@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-**📄 [Download CV (PDF)]({{ base_path }}/files/Academic_CV_Ruike_Lyu.pdf)**
+**📄 [Download CV (PDF)]({{ base_path }}/files/CV_Ruike_Lyu.pdf)**
 
 Education
 ======
