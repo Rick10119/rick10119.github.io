@@ -1,14 +1,16 @@
 ---
 permalink: /
 title: "What I'm Doing"
-description: "Ph.D. candidate at Tsinghua University researching electricity markets, virtual power plants, and industrial flexibility to solve the duck curve challenge in renewable energy systems."
+description: "Ph.D. candidate at Tsinghua University researching electricity markets, virtual power plants, industrial flexibility, and seasonal grid-load interaction for renewable energy systems."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 ![About My Research](/images/about.png)
-# My Research Focus: Addressing the Duck Curve Challenge through Industrial Consumer-Grid Interactions
+
+## My Research Focus: Industrial Consumer-Grid Interactions for Renewable Energy Systems
 
 I'm a PhD student in Electrical Engineering. My research focuses on solving one of the most pressing challenges in modern power systems: the "duck curve."
 
@@ -24,7 +26,7 @@ The duck curve represents the demand curve in power systems with high renewable 
 
 While traditional solutions focus on building more flexible generation resources, my research explores a different path: leveraging the flexibility of industrial users through virtual power plants (VPPs). Industrial users possess large capacity and significant potential for grid interaction.
 
-My research addresses three key challenges in this domain:
+My research addresses four key challenges in this domain:
 
 ### 1. Model Efficiency
 
@@ -44,13 +46,19 @@ My research addresses three key challenges in this domain:
 
 **My Solution**: By co-optimizing bidding and control strategies, I've achieved a 40% cost reduction through better coordination of industrial users and other resources.
 
+### 4. Seasonal Flexibility
+
+**Challenge**: High-renewable power systems need flexibility beyond hourly and daily time scales. Seasonal renewable patterns and winter peak demand can create long-duration supply-demand mismatches.
+
+**My Solution**: In our Nature Energy work, we show that moderate overcapacity in energy-intensive industries can become a seasonal flexibility resource. Aluminum smelters can produce and store more during renewable-abundant seasons, then reduce production during winter peak-load periods, lowering both power system costs and industrial production costs.
+
 ## Real-World Impact
 
-My research isn't just theoretical - it's delivering tangible results. One implemented project with a major auto manufacturer generates $4 million in annual savings.
+My research isn't just theoretical - it's delivering tangible results. One implemented project with a major auto manufacturer generates $4 million in annual savings. Our recent Nature Energy study further shows that seasonal operation of aluminum smelters could reduce annual investment and operating costs in China's decarbonized electricity system by 23-32 billion CNY.
 
-By exploring industrial flexibility from the perspectives of modeling, data, and economics, I'm working to make the duck curve more manageable and renewable integration more affordable for power systems worldwide.
+By exploring industrial flexibility from the perspectives of modeling, data, economics, and long-duration operation, I'm working to make renewable integration more affordable for power systems worldwide.
 
-# Why I Share My Research Openly
+## Why I Share My Research Openly
 
 I've always found that the most impactful research papers are those with open-source code and data. As a researcher, I believe in making science more accessible, reproducible, and collaborative. This website exists for a simple purpose: to share my research openly and help others understand and apply it.
 
@@ -63,4 +71,3 @@ By providing access to code, data, and detailed explanations of my work, I hope 
 For me, solving problems brings joy, but helping others understand those solutions is even more rewarding. I'll be gradually open-sourcing all my research projects and adding explanatory materials to make complex concepts more accessible.
 
 Feel free to explore my publications, code repositories, and explanations. I welcome questions, collaborations, and feedback!
-
