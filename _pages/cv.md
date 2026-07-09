@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-description: "Academic CV of Ruike Lyu - Ph.D. candidate at Tsinghua University and visiting researcher at Princeton University, specializing in electricity markets and virtual power plants."
+description: "Academic CV of Ruike Lyu - Ph.D. in Electrical Engineering from Tsinghua University, specializing in electricity markets and virtual power plants."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ Education
 ======
 * Visiting Student Research Collaborator, MAE, Princeton University, Feb. 2025 – Present
   * Advisor: Prof. Jesse Jenkins
-* Ph.D Student in Electrical Engineering, Tsinghua University, China, Sept. 2021 – Present
+* Ph.D. in Electrical Engineering, Tsinghua University, China, Sept. 2021 – 2026
   * Advisor: Prof. Chongqing Kang, Prof. Hongye Guo
 * B.E. in Electrical Engineering, Tsinghua University, China, Sept. 2017 – Jun. 2021
   * Department of Electrical Engineering

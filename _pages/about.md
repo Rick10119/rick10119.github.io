@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "What I'm Doing"
-description: "Ph.D. candidate at Tsinghua University researching electricity markets, virtual power plants, industrial flexibility, and seasonal grid-load interaction for renewable energy systems."
+description: "Ph.D. in Electrical Engineering researching electricity markets, virtual power plants, industrial flexibility, and seasonal grid-load interaction for renewable energy systems."
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ redirect_from:
 
 ## My Research Focus: Industrial Consumer-Grid Interactions for Renewable Energy Systems
 
-I'm a PhD student in Electrical Engineering. My research focuses on solving one of the most pressing challenges in modern power systems: the "duck curve."
+I hold a Ph.D. in Electrical Engineering from Tsinghua University. My research focuses on solving one of the most pressing challenges in modern power systems: the "duck curve."
 
 ## The Duck Curve Problem
 
