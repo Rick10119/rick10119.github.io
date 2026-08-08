@@ -49,12 +49,12 @@ Talks
 
 Honors and Awards
 ======
+* Outstanding Doctoral Dissertation, Tsinghua University (2026)
+* Outstanding Graduate, Tsinghua University (2026)
+* Nominated as one of the Top 10 Rising Stars in Research, Tsinghua University (2026)
 * Best Presentation Award, IEEE PES Ph.D. Dissertation Challenge (2025)
-* Best Presentation at multiple conferences (PESGM2025, EECT2025, PSSGT2025, CEEPE2024)
-* Outstanding Undergraduate Student Mentor of Tsinghua University (2024)
-* National Scholarship for Graduate Students (2023)
-* First-Class Comprehensive Excellence Scholarship (2022)
-* Future Scholar Scholarship (2021)
-* Outstanding Bachelor Thesis (2021)
-* Outstanding Student Leader Award (2020)
+* Nominated as one of the Top 10 Students University-wide, Tsinghua University (2025)
+* Best Presentation/Paper Award, PESGM2025, EECT2025, PSSGT2025, CEEPE2024
+* National Scholarship for Graduate Students, Ministry of Education of China (2023, 2025)
+* Outstanding Senior Thesis, Tsinghua University (2021)
 
