@@ -18,6 +18,7 @@ Education
   * Advisor: Prof. Jesse Jenkins
 * Ph.D. in Electrical Engineering, Tsinghua University, China, Sept. 2021 – 2026
   * Advisor: Prof. Chongqing Kang, Prof. Hongye Guo
+  * Dissertation defense slides: [Download]({{ base_path }}/files/Slides_phd_disseration_defense_Ruike_Lyu.pdf)
 * B.E. in Electrical Engineering, Tsinghua University, China, Sept. 2017 – Jun. 2021
   * Department of Electrical Engineering
 * Bachelor of Business Administration (Second Degree), Tsinghua University, China, Sept. 2018 – Jun. 2021
