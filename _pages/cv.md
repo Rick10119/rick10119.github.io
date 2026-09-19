@@ -45,16 +45,25 @@ Teaching experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
+**Manuscripts under review**
+
+* **R. Lyu** and H. Guo, “Demand flexibility must account for consumer-side capital costs,” *Nature Reviews Clean Technology*, under review.
+* **R. Lyu** and T. Li, “[Do We Still Need Demand Flexibility as Batteries Become Cheaper? A Levelized Cost Perspective](https://arxiv.org/abs/2608.07348),” *Energy Conversion and Management*, under review.
+
+**Journal articles**
+
+* **R. Lyu**, A. Li, J. Wang, H. Luo, E. Du, H. Guo, C. Kang, and J. Jenkins, “[Industrial overcapacity can enable seasonal flexibility in electricity use](https://www.nature.com/articles/s41560-026-02073-y),” *Nature Energy*, vol. 11, pp. 1203–1215, 2026. **Cover Article.**
+* **R. Lyu**, H. Guo, G. Strbac, and C. Kang, “[Data-Driven Dimension Reduction for Industrial Load Modeling Using Inverse Optimization](https://ieeexplore.ieee.org/document/10902053),” *IEEE Transactions on Smart Grid*, vol. 16, no. 3, pp. 2695–2698, 2025.
+* **R. Lyu**, H. Guo, Q. Tang, Q. Chen, and C. Kang, “[Production Scheduling Identification: An Inverse Optimization Approach for Industrial Load Modeling Using Smart Meter Data](https://ieeexplore.ieee.org/document/10769532),” *IEEE Transactions on Smart Grid*, vol. 16, no. 2, pp. 1207–1220, 2025.
+* **R. Lyu**, X. Su, E. Du, H. Guo, Q. Chen, and C. Kang, “[Efficient Scheduling of Discrete Industrial Processes through Continuous Modeling](https://ieeexplore.ieee.org/document/11082423),” *IEEE Transactions on Smart Grid*, vol. 16, no. 6, pp. 4726–4740, 2025.
+* **R. Lyu**, H. Guo, K. Zheng, M. Sun, and Q. Chen, “[Co-Optimizing Bidding and Power Allocation of an EV Aggregator Providing Real-Time Frequency Regulation Service](https://ieeexplore.ieee.org/document/10059168),” *IEEE Transactions on Smart Grid*, vol. 14, no. 6, pp. 4594–4606, 2023.
+* **R. Lyu**, Y. Gu, and Q. Chen, “[Electric Vehicle Charging Right Trading: Concept, Mechanism, and Methodology](https://ieeexplore.ieee.org/document/9733958),” *IEEE Transactions on Smart Grid*, vol. 13, no. 4, pp. 3094–3105, 2022.
+
+**Conference papers**
+
+* **R. Lyu**, H. Guo, and Q. Chen, “Approximating Energy-Regulation Feasible Regions of Virtual Power Plants: A Data-Driven Inverse Optimization Approach,” *2024 IEEE Power & Energy Society General Meeting (PESGM)*, Seattle, WA, USA, 2024, pp. 1–5.
+* **R. Lyu**, H. Guo, Y. Zheng, Y. Bai, and Q. Chen, “[LSTN: A Linear Model of Industrial Production Process for Demand Response](https://ieeexplore.ieee.org/document/10408608),” *2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe)*, Grenoble, France, 2023, pp. 1–5.
 
 Honors and Awards
 ======
