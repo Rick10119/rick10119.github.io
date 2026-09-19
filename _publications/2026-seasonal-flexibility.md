@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-seasonal-flexibility
 excerpt: 'A new demand-side flexibility paradigm where energy-intensive industries use overcapacity and product storage to match seasonal renewable energy patterns'
-date: 2026-07-06
+date: 2026-06-12
 venue: 'Nature Energy'
 paperurl: 'https://www.nature.com/articles/s41560-026-02073-y'
 header:
@@ -62,4 +62,4 @@ The aluminum smelting case provides an entry point, but the broader idea may als
 
 ## Citation
 
-R. Lyu, A. Li, J. Wang, H. Luo, Y. Shen, E. Du,  H. Guo, C. Kang, and J. Jenkins, "Industrial overcapacity can enable seasonal flexibility in electricity use," Nature Energy, 2026, doi: 10.1038/s41560-026-02073-y.
+R. Lyu, A. Li, J. Wang, H. Luo, Y. Shen, H. Guo, E. Du, C. Kang, and J. Jenkins, "Industrial overcapacity can enable seasonal flexibility in electricity use," Nature Energy, vol. 11, pp. 1203--1215, 2026, doi: 10.1038/s41560-026-02073-y.

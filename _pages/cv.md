@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-description: "Academic CV of Ruike Lyu - Ph.D. in Electrical Engineering from Tsinghua University, specializing in electricity markets and virtual power plants."
+description: "Academic CV of Ruike Lyu, a computational energy systems researcher working on power systems, demand flexibility, and infrastructure planning."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,15 +12,22 @@ redirect_from:
 
 **📄 [Download CV (PDF)]({{ base_path }}/files/CV_Ruike_Lyu.pdf)**
 
+Research Appointments
+======
+* Postdoctoral Research Scientist, Department of Earth and Environmental Engineering, Columbia University, Oct. 2026 – Present
+  * Postdoctoral Advisor: Prof. Bolun Xu
+* Postdoctoral Research Associate, Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University, Jul. 2026 – Sept. 2026
+* Visiting Research Collaborator, Andlinger Center for Energy and the Environment, Princeton University, Mar. 2025 – Feb. 2026
+  * Faculty Host: Prof. Jesse Jenkins
+
 Education
 ======
-* Visiting Student Research Collaborator, MAE, Princeton University, Feb. 2025 – Present
-  * Advisor: Prof. Jesse Jenkins
-* Ph.D. in Electrical Engineering, Tsinghua University, China, Sept. 2021 – 2026
-  * Advisor: Prof. Chongqing Kang, Prof. Hongye Guo
+* Ph.D. in Electrical Engineering, Tsinghua University, China, Sept. 2021 – Jun. 2026
+  * Graduated with the university's highest honor for graduates
+  * Ph.D. Advisor: Prof. Chongqing Kang
   * Dissertation defense slides: [Download]({{ base_path }}/files/Slides_phd_disseration_defense_Ruike_Lyu.pdf)
 * B.E. in Electrical Engineering, Tsinghua University, China, Sept. 2017 – Jun. 2021
-  * Department of Electrical Engineering
+  * Graduated with honors
 * Bachelor of Business Administration (Second Degree), Tsinghua University, China, Sept. 2018 – Jun. 2021
   * School of Economics and Management
 
@@ -58,4 +65,3 @@ Honors and Awards
 * Best Presentation/Paper Award, PESGM2025, EECT2025, PSSGT2025, CEEPE2024
 * National Scholarship for Graduate Students, Ministry of Education of China (2023, 2025)
 * Outstanding Senior Thesis, Tsinghua University (2021)
-

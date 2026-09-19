@@ -38,7 +38,7 @@ This co-optimization approach balances:
 - Future profits affected by bidding strategies
 - The interdependence between bidding and control decisions
 
-[TSG-2023](https://ieeexplore.ieee.org/document/10689111) [Github (code and slides)](https://github.com/Rick10119/Co-Optimizing-Bidding-and-Power-Allocation-of-an-EV-Aggregator) [Video](https://www.bilibili.com/video/BV1u3QDYFEKi)
+[TSG-2023](https://ieeexplore.ieee.org/document/10059168) [Github (code and slides)](https://github.com/Rick10119/Co-Optimizing-Bidding-and-Power-Allocation-of-an-EV-Aggregator) [Video](https://www.bilibili.com/video/BV1u3QDYFEKi)
 
 ## Real-Time Implementation Strategy
 
@@ -64,4 +64,4 @@ Perhaps most remarkably, we developed a method that uses only basic arithmetic o
 
 This research completes the pipeline from modeling to market participation, enabling industrial users and other flexible resources to be efficiently integrated into power markets. The economic benefits are substantial, with our co-optimization approach demonstrating significant profit improvements over conventional methods.
 
-By solving the economic challenges of heterogeneous resource coordination, we make it feasible for industrial users to provide valuable services to the grid while maintaining their primary production objectives—creating a win-win situation for both industry and the power system. 
+By solving the economic challenges of heterogeneous resource coordination, we make it feasible for industrial users to provide valuable services to the grid while maintaining their primary production objectives—creating a win-win situation for both industry and the power system.

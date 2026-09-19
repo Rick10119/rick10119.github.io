@@ -1,73 +1,41 @@
 ---
 permalink: /
-title: "What I'm Doing"
-description: "Ph.D. in Electrical Engineering researching electricity markets, virtual power plants, industrial flexibility, and seasonal grid-load interaction for renewable energy systems."
+title: "Research"
+description: "Computational energy systems research on demand flexibility, low-carbon technologies, and sustainable energy infrastructure planning."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-![About My Research](/images/about.png)
+I am a power and energy systems researcher. I develop optimization models and decision-support tools for low-carbon power systems with focus on demand flexibility from large loads and electricity markets.
 
-## My Research Focus: Industrial Consumer-Grid Interactions for Renewable Energy Systems
+## Research Vision
 
-I hold a Ph.D. in Electrical Engineering from Tsinghua University. My research focuses on solving one of the most pressing challenges in modern power systems: the "duck curve."
+My research asks how large energy users can become dependable resources for renewable-powered systems. Factories, buildings, data centers, and other large loads can adjust when and where they use electricity, but their flexibility is shaped by physical processes, investment decisions, and economic incentives. I develop models that connect these demand-side decisions with power-system planning and operations.
 
-## The Duck Curve Problem
+I envision a **demand flexibility economy** in which firms meet their productive needs while reliably providing flexibility to power systems and earning predictable revenue in return. This requires not only better operational models, but also infrastructure co-design and market arrangements that align system value with firms' costs and incentives.
 
-The duck curve represents the demand curve in power systems with high renewable energy penetration. As solar generation increases during the day and drops in the evening, it creates a distinctive curve resembling a duck's profile. This phenomenon is causing significant challenges:
+## Research Areas
 
-- In California, it has led to steep ramping requirements for conventional generators
-- In Shandong Province, China, it has resulted in nearly 20% negative prices in the spot market
-- Globally, it increases the cost of maintaining power balance through redundant generation resources
+### Physically Grounded and Scalable Modeling
 
-## My Solution Approach: Industrial Users as Virtual Power Plants
+I develop optimization methods that represent the physical and operational constraints of industrial processes while remaining tractable for power-system studies. My work includes continuous production-process models, parameter identification from smart-meter data, and data-driven model reduction for system-scale planning and operation.
 
-While traditional solutions focus on building more flexible generation resources, my research explores a different path: leveraging the flexibility of industrial users through virtual power plants (VPPs). Industrial users possess large capacity and significant potential for grid interaction.
+### Large Loads and Energy Infrastructure Planning
 
-My research addresses four key challenges in this domain:
+I study how production capacity, inventories, facility locations, computing workloads, and operating schedules shape electricity demand across timescales. By co-optimizing these decisions with generation, storage, and grid investments, I aim to identify infrastructure strategies that reduce costs without compromising production or service requirements.
 
-### 1. Model Efficiency
+### Markets and Institutions for Demand Flexibility
 
-**Challenge**: Current industrial load models use integer variables to describe production processes. A single factory could have 10,000 variables, making optimization problems NP-hard to solve.
+Firms bear capital, inventory, and operating costs when they provide flexibility. I study how procurement mechanisms, contracts, and electricity markets can translate the system value of flexibility into stable incentives for investment and reliable delivery.
 
-**My Solution**: I've developed linearized models using convex relaxation techniques that maintain accuracy while solving 20 times faster than conventional approaches.
+## Selected Impact
 
-### 2. Parameter Identification
+In a [Nature Energy study](https://www.nature.com/articles/s41560-026-02073-y), we showed that industrial overcapacity and product inventories can enable aluminum smelters to shift electricity use across seasons. Across the investigated scenarios, this flexibility reduced annual electricity-system costs by CNY 23-32 billion, equivalent to 11-15% of the aluminum smelting industry's product value.
 
-**Challenge**: Load parameters are typically private data that VPPs cannot access, with only smart meter data widely available.
+As implementation lead for an industrial energy-management project at a BYD automotive manufacturing plant, I developed and implemented an optimization strategy coordinating a 60 MW manufacturing load, a 60 MW/240 MWh battery energy storage system, and 10 MW of solar generation. The project was estimated to provide approximately US$4 million in annual operating-cost savings.
 
-**My Solution**: I've pioneered inverse optimization techniques that can identify model parameters from historical smart meter data - something previously thought impossible. This enables accurate modeling without compromising industrial users' privacy.
+I also contribute to [MacroEnergy.jl](https://github.com/macroenergy/MacroEnergy.jl), an open-source framework for energy-system planning, where I have implemented models of aluminum, ammonia, and methanol production. I share code, data, and research explanations whenever possible to make computational energy research more transparent, reproducible, and useful to others.
 
-### 3. Economic Optimization
-
-**Challenge**: Traditional methods separate market bidding from VPP control, resulting in suboptimal economic outcomes.
-
-**My Solution**: By co-optimizing bidding and control strategies, I've achieved a 40% cost reduction through better coordination of industrial users and other resources.
-
-### 4. Seasonal Flexibility
-
-**Challenge**: High-renewable power systems need flexibility beyond hourly and daily time scales. Seasonal renewable patterns and winter peak demand can create long-duration supply-demand mismatches.
-
-**My Solution**: In our Nature Energy work, we show that moderate overcapacity in energy-intensive industries can become a seasonal flexibility resource. Aluminum smelters can produce and store more during renewable-abundant seasons, then reduce production during winter peak-load periods, lowering both power system costs and industrial production costs.
-
-## Real-World Impact
-
-My research isn't just theoretical - it's delivering tangible results. One implemented project with a major auto manufacturer generates $4 million in annual savings. Our recent Nature Energy study further shows that seasonal operation of aluminum smelters could reduce annual investment and operating costs in China's decarbonized electricity system by 23-32 billion CNY.
-
-By exploring industrial flexibility from the perspectives of modeling, data, economics, and long-duration operation, I'm working to make renewable integration more affordable for power systems worldwide.
-
-## Why I Share My Research Openly
-
-I've always found that the most impactful research papers are those with open-source code and data. As a researcher, I believe in making science more accessible, reproducible, and collaborative. This website exists for a simple purpose: to share my research openly and help others understand and apply it.
-
-By providing access to code, data, and detailed explanations of my work, I hope to:
-
-- Make my research more transparent and reproducible
-- Help others build upon my findings
-- Increase the impact and citations of my papers
-
-For me, solving problems brings joy, but helping others understand those solutions is even more rewarding. I'll be gradually open-sourcing all my research projects and adding explanatory materials to make complex concepts more accessible.
-
-Feel free to explore my publications, code repositories, and explanations. I welcome questions, collaborations, and feedback!
+Please explore the publications, code repositories, talks, and project pages on this site. I welcome questions and opportunities for collaboration.

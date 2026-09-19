@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Research Page"
+title                    : "Ruike Lyu | Power and Energy Systems"
 title_separator          : "-"
 name                     : &name "Ruike Lyu"
-description              : &description "Ph.D. in Electrical Engineering from Tsinghua Univ. (EILab), researching electricity markets, virtual power plants, and industrial flexibility"
+description              : &description "Power and energy systems, demand flexibility, electricity markets, and infrastructure planning"
 url                      : https://rick10119.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rick10119/rick10119.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "rklyu.jpg"
   name             : "Ruike Lyu"
   pronouns         : "he/him"  
-  bio              : "I hold a Ph.D. in Electrical Engineering from Tsinghua University, with research interests primarily focused on electricity markets, virtual power plants, and demand-side (industrial) flexibility."
-  location         : "Princeton, NJ"
-  employer         : "Princeton University"
+  bio              : "Incoming Postdoctoral Research Scientist at Columbia University. I develop optimization models and decision-support tools for power systems, low-carbon technologies, and energy infrastructure planning."
+  location         :
+  employer         : "Columbia University (starting Oct. 2026)"
   # uri              : # URL
   email            : "rl8728@princeton.edu" 
 
