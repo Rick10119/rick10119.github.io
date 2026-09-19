@@ -25,6 +25,7 @@ Education
 * Ph.D. in Electrical Engineering, Tsinghua University, China, Sept. 2021 – Jun. 2026
   * Graduated with the university's highest honor for graduates
   * Ph.D. Advisor: Prof. Chongqing Kang
+  * Ph.D. dissertation: [Industrial Load Modeling and Optimization Decision-Making Methods for Market-Based Interaction](https://arxiv.org/abs/2608.15076)
   * Dissertation defense slides: [Download]({{ base_path }}/files/Slides_phd_disseration_defense_Ruike_Lyu.pdf)
 * B.E. in Electrical Engineering, Tsinghua University, China, Sept. 2017 – Jun. 2021
   * Graduated with honors
