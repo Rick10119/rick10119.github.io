@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv-json/
 author_profile: false
+published: false
 redirect_from:
   - /resume-json
 ---
@@ -30,6 +31,6 @@ redirect_from:
 {% include cv-template.html %}
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/CV_Ruike_Lyu.pdf" class="btn btn--primary">Download CV as PDF</a>
   <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
 </div>

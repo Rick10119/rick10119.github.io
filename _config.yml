@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ruike Lyu | Power and Energy Systems"
+title                    : "Ruike Lyu | Power Systems"
 title_separator          : "-"
 name                     : &name "Ruike Lyu"
-description              : &description "Power and energy systems, demand flexibility, electricity markets, and infrastructure planning"
+description              : &description "Power-system research on demand flexibility, electricity markets, and energy infrastructure planning"
 url                      : https://rick10119.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rick10119/rick10119.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "rklyu.jpg"
   name             : "Ruike Lyu"
   pronouns         : "he/him"  
-  bio              : "Incoming Postdoctoral Research Scientist at Columbia University. I develop optimization models and decision-support tools for power systems, low-carbon technologies, and energy infrastructure planning."
+  bio              : "Power-system researcher and Postdoctoral Research Scientist at Columbia University. I develop optimization models and decision-support tools for low-carbon power systems and large-load flexibility."
   location         :
-  employer         : "Columbia University (starting Oct. 2026)"
+  employer         : "Columbia University"
   # uri              : # URL
   email            : "rl8728@princeton.edu" 
 
@@ -137,7 +137,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "bio-photo.jpg"  # Open Graph/Twitter default site image
+og_image                 : "rklyu.jpg"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -220,7 +220,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true

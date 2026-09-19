@@ -1,41 +1,64 @@
 ---
 permalink: /
-title: "Research"
-description: "Computational energy systems research on demand flexibility, low-carbon technologies, and sustainable energy infrastructure planning."
+title: "Building a Demand Flexibility Economy"
+description: "Power-system research on demand flexibility, low-carbon technologies, and sustainable energy infrastructure planning."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+impact_row:
+  - title: "Nature Energy"
+    excerpt: "**Cover Article (2026).** Industrial overcapacity and product inventories as a source of seasonal grid flexibility."
+    url: "https://www.nature.com/articles/s41560-026-02073-y"
+    btn_label: "Read the paper"
+    btn_class: "btn--primary"
+  - title: "Industrial Implementation"
+    excerpt: "**US$4 million/year** in estimated operating-cost savings from coordinating manufacturing load, battery storage, and solar generation."
+    url: "/projects/industrial-energy-management/"
+    btn_label: "View the project"
+    btn_class: "btn--primary"
+  - title: "Open-Source Modeling"
+    excerpt: "Models of aluminum, ammonia, and methanol production implemented in the MacroEnergy.jl energy-system planning framework."
+    url: "https://github.com/macroenergy/MacroEnergy.jl"
+    btn_label: "View the code"
+    btn_class: "btn--primary"
+
+research_areas:
+  - title: "Physically Grounded and Scalable Modeling"
+    excerpt: "Optimization methods that represent industrial production constraints while remaining tractable for power-system planning and operations."
+  - title: "Large Loads and Energy Infrastructure Planning"
+    excerpt: "Co-optimizing production capacity, inventories, facility locations, computing workloads, and operating schedules with generation, storage, and grid investments."
+  - title: "Markets and Institutions for Demand Flexibility"
+    excerpt: "Procurement mechanisms, contracts, and electricity markets that compensate firms for the capital, inventory, and operating costs of providing flexibility."
 ---
 
-I am a power and energy systems researcher. I develop optimization models and decision-support tools for low-carbon power systems with focus on demand flexibility from large loads and electricity markets.
+I am a power-system researcher. I develop optimization models and decision-support tools for low-carbon power systems, with a focus on flexibility from large loads, energy infrastructure planning, and electricity markets.
 
-## Research Vision
+My research connects the physical constraints and investment decisions of industrial and other large energy users with power-system planning and operations. My goal is to build a **demand flexibility economy** in which firms meet their productive needs while reliably supporting power systems and earning predictable revenue in return.
 
-My research asks how large energy users can become dependable resources for renewable-powered systems. Factories, buildings, data centers, and other large loads can adjust when and where they use electricity, but their flexibility is shaped by physical processes, investment decisions, and economic incentives. I develop models that connect these demand-side decisions with power-system planning and operations.
-
-I envision a **demand flexibility economy** in which firms meet their productive needs while reliably providing flexibility to power systems and earning predictable revenue in return. This requires not only better operational models, but also infrastructure co-design and market arrangements that align system value with firms' costs and incentives.
-
-## Research Areas
-
-### Physically Grounded and Scalable Modeling
-
-I develop optimization methods that represent the physical and operational constraints of industrial processes while remaining tractable for power-system studies. My work includes continuous production-process models, parameter identification from smart-meter data, and data-driven model reduction for system-scale planning and operation.
-
-### Large Loads and Energy Infrastructure Planning
-
-I study how production capacity, inventories, facility locations, computing workloads, and operating schedules shape electricity demand across timescales. By co-optimizing these decisions with generation, storage, and grid investments, I aim to identify infrastructure strategies that reduce costs without compromising production or service requirements.
-
-### Markets and Institutions for Demand Flexibility
-
-Firms bear capital, inventory, and operating costs when they provide flexibility. I study how procurement mechanisms, contracts, and electricity markets can translate the system value of flexibility into stable incentives for investment and reliable delivery.
+[Explore Research Projects]({{ base_path }}/projects/){: .btn .btn--primary }
+[Download CV]({{ base_path }}/files/CV_Ruike_Lyu.pdf){: .btn .btn--inverse }
+[Email Me](mailto:{{ site.author.email }}){: .btn }
 
 ## Selected Impact
 
-In a [Nature Energy study](https://www.nature.com/articles/s41560-026-02073-y), we showed that industrial overcapacity and product inventories can enable aluminum smelters to shift electricity use across seasons. Across the investigated scenarios, this flexibility reduced annual electricity-system costs by CNY 23-32 billion, equivalent to 11-15% of the aluminum smelting industry's product value.
+{% include feature_row id="impact_row" %}
 
-As implementation lead for an industrial energy-management project at a BYD automotive manufacturing plant, I developed and implemented an optimization strategy coordinating a 60 MW manufacturing load, a 60 MW/240 MWh battery energy storage system, and 10 MW of solar generation. The project was estimated to provide approximately US$4 million in annual operating-cost savings.
+## Current Research
 
-I also contribute to [MacroEnergy.jl](https://github.com/macroenergy/MacroEnergy.jl), an open-source framework for energy-system planning, where I have implemented models of aluminum, ammonia, and methanol production. I share code, data, and research explanations whenever possible to make computational energy research more transparent, reproducible, and useful to others.
+{% include feature_row id="research_areas" %}
 
-Please explore the publications, code repositories, talks, and project pages on this site. I welcome questions and opportunities for collaboration.
+## Research Vision
+
+Factories, buildings, data centers, and other large loads can adjust when and where they use electricity, but their flexibility is shaped by physical processes, investment decisions, and economic incentives. Realizing this flexibility therefore requires more than short-term load control: it requires co-designing operational models, infrastructure investments, and market arrangements.
+
+Across this agenda, I combine physically grounded optimization, data-driven inference, and system-scale planning to determine not only how much flexibility large energy users can provide, but also what investments and institutions are needed to make that flexibility dependable and economically sustainable.
+
+## Latest News
+
+<ul>
+{% for item in site.data.news limit:6 %}
+  <li><strong>[{{ item.date }}]</strong> {{ item.text | markdownify | remove: "<p>" | remove: "</p>" }} <a href="{% if item.url contains '://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.link_label }}</a>.</li>
+{% endfor %}
+</ul>

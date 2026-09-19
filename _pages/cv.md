@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-description: "Academic CV of Ruike Lyu, a computational energy systems researcher working on power systems, demand flexibility, and infrastructure planning."
+description: "Academic CV of Ruike Lyu, a power-system researcher working on demand flexibility and energy infrastructure planning."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -68,10 +68,9 @@ Publications
 Honors and Awards
 ======
 * Outstanding Doctoral Dissertation, Tsinghua University (2026)
-* Outstanding Graduate, Tsinghua University (2026)
-* Nominated as one of the Top 10 Rising Stars in Research, Tsinghua University (2026)
-* Best Presentation Award, IEEE PES Ph.D. Dissertation Challenge (2025)
-* Nominated as one of the Top 10 Students University-wide, Tsinghua University (2025)
-* Best Presentation/Paper Award, PESGM2025, EECT2025, PSSGT2025, CEEPE2024
-* National Scholarship for Graduate Students, Ministry of Education of China (2023, 2025)
+* Finalist, Top 10 Rising Stars in Research, Tsinghua University (2026)
+* Best Presentation Award (one of two), IEEE PES Ph.D. Dissertation Challenge (2025)
+* Best Oral Presentation Award, PCCC Student Networking Session, IEEE PES General Meeting (2025)
+* National Scholarship for Graduate Students, Ministry of Education of China (2025, 2023)
+* Finalist, University-wide Top 10 Students, Tsinghua University (2025)
 * Outstanding Senior Thesis, Tsinghua University (2021)

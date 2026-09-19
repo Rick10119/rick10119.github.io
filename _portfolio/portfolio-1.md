@@ -1,22 +1,32 @@
 ---
 title: "Industrial Energy Management System Implementation"
-excerpt: "Optimized operation strategy for industrial users with commercial energy storage, resulting in $4 million annual savings"
+excerpt: "An implemented optimization strategy coordinating a 60 MW manufacturing load, a 60 MW/240 MWh battery, and 10 MW of solar generation."
 collection: portfolio
-# header:
-#   teaser: /images/port1.jpg
+order: 4
+permalink: /projects/industrial-energy-management/
+redirect_from:
+  - /portfolio/portfolio-1/
+teaser: /images/port1.jpg
+teaser_alt: "Ruike Lyu discussing the industrial energy-management system with on-site engineers"
+category_label: "Implementation"
 ---
 
 ![Project Implementation (discussing with on-site engineers)](/images/port1.jpg)
 
-## Project Overview
+## The problem
 
-This project involved designing an optimized operation strategy for an auto manufacturing plant in Chongqing, integrating:
-- 60MW industrial load (manufacturing facilities)
-- 60MW/240MWh energy storage system
-- 10MW solar generation capacity
+Large manufacturing facilities increasingly combine complex production loads with on-site generation and battery storage. Coordinating these resources requires an operating strategy that can reduce electricity costs without disrupting production.
 
-The implementation was a collaboration between the manufacturing plant and State Power Investment Corporation (SPIC), focused on leveraging digital technology to optimize energy usage patterns.
+## What I implemented
 
-## Results and Impact
+As implementation lead, I developed and implemented an optimization strategy for a BYD automotive manufacturing plant in Chongqing. The system coordinated:
 
-The implemented project is generating approximately $4 million in annual savings. This substantial economic benefit demonstrates the significant value that can be created through intelligent energy management of industrial loads and distributed energy resources.
+- a 60 MW manufacturing load;
+- a 60 MW/240 MWh battery energy storage system; and
+- 10 MW of solar generation.
+
+The work was conducted with the State Power Investment Corporation and the manufacturing plant, linking production operations with the scheduling of distributed energy resources.
+
+## Result and research connection
+
+The implemented strategy was projected to provide approximately **US$4 million in annual operating-cost savings**. The project also revealed an important physical limit: when production equipment is already highly utilized, short-term rescheduling alone provides limited flexibility. That observation helped motivate my subsequent research on spare production capacity, inventories, and seasonal industrial flexibility.
