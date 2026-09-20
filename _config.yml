@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ruike Lyu | Power Systems"
+title                    : "Ruike Lyu | Energy Systems Researcher"
 title_separator          : "-"
 name                     : &name "Ruike Lyu"
-description              : &description "Power-system research on demand flexibility, electricity markets, and energy infrastructure planning"
+description              : &description "Energy systems research on power systems, demand flexibility, industrial decarbonization, and the transition to clean energy"
 url                      : https://rick10119.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rick10119/rick10119.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "rklyu.jpg"
   name             : "Ruike Lyu"
   pronouns         : "he/him"  
-  bio              : "Power-system researcher and Postdoctoral Research Scientist at Columbia University. I develop optimization models and decision-support tools for low-carbon power systems and large-load flexibility."
+  bio              : "Energy systems researcher and Postdoctoral Research Scientist at Columbia University, working on power systems, demand flexibility, and industrial decarbonization."
   location         :
   employer         : "Columbia University"
   # uri              : # URL
