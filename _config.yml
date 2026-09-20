@@ -22,7 +22,7 @@ repository               : "rick10119/rick10119.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "rklyu.jpg"
+  avatar           : "rklyu.png"
   name             : "Ruike Lyu"
   pronouns         : "he/him"  
   bio              : "Energy systems researcher and Postdoctoral Research Scientist at Columbia University, working on power systems, demand flexibility, and industrial decarbonization."
@@ -137,7 +137,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "rklyu.jpg"  # Open Graph/Twitter default site image
+og_image                 : "rklyu.png"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
