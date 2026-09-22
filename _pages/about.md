@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Energy Systems Researcher | Power Systems, Demand Flexibility, and Industrial Decarbonization"
-description: "Energy systems research on power systems, demand flexibility, industrial decarbonization, and the transition to clean energy."
+title: "Energy Systems Researcher | Power Systems, Industrial Demand Flexibility, and Energy Infrastructure"
+description: "Energy systems research on power systems, industrial demand flexibility, and energy infrastructure."
 author_profile: true
 redirect_from: 
   - /about/

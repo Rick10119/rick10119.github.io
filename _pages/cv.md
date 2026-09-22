@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-description: "Academic CV of Ruike Lyu, an energy systems researcher working on power systems, demand flexibility, and industrial decarbonization."
+description: "Academic CV of Ruike Lyu, an energy systems researcher working on power systems, industrial demand flexibility, and energy infrastructure."
 permalink: /cv/
 author_profile: true
 redirect_from:
