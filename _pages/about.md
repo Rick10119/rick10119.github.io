@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Energy Systems Researcher | Power Systems, Industrial Demand Flexibility, and Energy Infrastructure"
-description: "Energy systems research on power systems, industrial demand flexibility, and energy infrastructure."
+title: "Energy Systems Researcher"
+description: "Energy systems research combining power systems and macro-energy systems modeling to study industrial demand flexibility and energy infrastructure."
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,7 @@ impact_row:
     btn_label: "View the project"
     btn_class: "btn--primary"
   - title: "Open-Source Modeling"
-    excerpt: "Models of aluminum, ammonia, and methanol production implemented in the MacroEnergy.jl energy-system planning framework."
+    excerpt: "Implemented models of aluminum, ammonia, and methanol production in MacroEnergy.jl, an open-source framework for optimizing large, multi-sector energy systems."
     url: "https://github.com/macroenergy/MacroEnergy.jl"
     btn_label: "View the code"
     btn_class: "btn--primary"
@@ -33,7 +33,9 @@ research_areas:
     excerpt: "Procurement mechanisms, contracts, and electricity markets that compensate firms for the capital, inventory, and operating costs of providing flexibility."
 ---
 
-I am currently a Postdoctoral Research Scientist in the Department of Earth and Environmental Engineering at Columbia University, working with Prof. Bolun Xu. I received my Ph.D. in Electrical Engineering from Tsinghua University, advised by Prof. Chongqing Kang. Before joining Columbia, I held research appointments at The Hong Kong Polytechnic University and Princeton University’s Andlinger Center for Energy and the Environment.
+**Power Systems and Macro-Energy Systems Modeling for Industrial Demand Flexibility and Energy Infrastructure**
+
+I am currently a Postdoctoral Research Scientist in the Department of Earth and Environmental Engineering at Columbia University, working with Prof. Bolun Xu. I received my Ph.D. in Electrical Engineering from Tsinghua University, advised by Prof. Chongqing Kang. Before joining Columbia, I held research appointments at The Hong Kong Polytechnic University and Princeton University’s Andlinger Center for Energy and the Environment (host by Prof. Jesse Jenkins).
 
 My research examines how energy infrastructure and the systems it serves can be co-designed to enable a reliable and affordable transition to clean energy. Grounded in power systems, optimization, and electricity markets, I focus particularly on the interaction between electricity infrastructure and flexible industrial demand. I combine macro-energy systems optimization, engineering models of industrial processes, and empirical analysis of smart-meter data to develop physically grounded, scalable representations of demand flexibility and assess its value to energy-system planning and operations.
 
